@@ -11,14 +11,14 @@ document.addEventListener("DOMContentLoaded", () => {
             link: "https://nitish9570.github.io/login-page/"
         },
         {
-            title: "Project 2",
+            title: "clock",
             description: "This project is designed to create a fully functional digital clock using HTML, CSS, and JavaScript. The clock displays the current time in hours, minutes, and seconds, and updates in real-time. The design is simple, clean, and user-friendly, making it suitable for both websites and mobile applications. Additionally, the project can be customized to include features like a date display, time zone adjustments, and an alarm feature.",
             link: "https://nitish9570.github.io/clock/"
         },
         {
-            title: "Project 3",
-            description: "A complete eCommerce website built with HTML, CSS, and JavaScript.",
-            link: "https://github.com/yourname/project3"
+            title: "snake game",
+            description: "The Snake game built with HTML, CSS, and JavaScript is a classic arcade-style game where the player controls a snake that moves around the screen to collect food, causing it to grow longer. The goal is to avoid colliding with the walls or the snake’s own body while trying to eat as much food as possible to score points. The game utilizes HTML for the structure, CSS for styling and layout, and JavaScript for handling the game logic, including snake movement, collision detection, and score tracking.",
+            link: "https://nitish9570.github.io/snake-game/"
         },
         // Add more projects as needed
     ];
