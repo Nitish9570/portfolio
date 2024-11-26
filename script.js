@@ -6,14 +6,14 @@ document.addEventListener("DOMContentLoaded", () => {
     // Sample project data
     const projects = [
         {
-            title: "Project 1",
-            description: "This is a web development project focused on creating a responsive design.",
-            link: "https://github.com/yourname/project1"
+            title: "LoginPage",
+            description: "This project focuses on creating a responsive and user-friendly login page that utilizes modern design and best practices. The purpose of this login page is to provide a secure and seamless authentication interface for users. It uses minimalist and stylish layouts that work efficiently on both mobile and desktop platforms.",
+            link: "https://nitish9570.github.io/login-page/"
         },
         {
             title: "Project 2",
-            description: "This project is a JavaScript application for tracking tasks and productivity.",
-            link: "https://github.com/yourname/project2"
+            description: "This project is designed to create a fully functional digital clock using HTML, CSS, and JavaScript. The clock displays the current time in hours, minutes, and seconds, and updates in real-time. The design is simple, clean, and user-friendly, making it suitable for both websites and mobile applications. Additionally, the project can be customized to include features like a date display, time zone adjustments, and an alarm feature.",
+            link: "https://nitish9570.github.io/clock/"
         },
         {
             title: "Project 3",
