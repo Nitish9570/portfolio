@@ -20,6 +20,12 @@ document.addEventListener("DOMContentLoaded", () => {
             description: "The Snake game built with HTML, CSS, and JavaScript is a classic arcade-style game where the player controls a snake that moves around the screen to collect food, causing it to grow longer. The goal is to avoid colliding with the walls or the snake’s own body while trying to eat as much food as possible to score points. The game utilizes HTML for the structure, CSS for styling and layout, and JavaScript for handling the game logic, including snake movement, collision detection, and score tracking.",
             link: "https://nitish9570.github.io/snake-game/"
         },
+
+         {
+            title: "instagram-clone",
+            description: "An Instagram clone is a social media app designed to mimic the core features of Instagram, allowing users to share photos, videos, and stories. It includes functionalities such as user profiles, a feed for posts, like and comment features, and direct messaging. Users can follow others, explore new content through hashtags or trending pages, and post their own media with filters, captions, and tags. The app focuses on user interaction and community building, offering a platform for both casual sharing and professional branding. The design and user experience are streamlined to provide a simple, engaging, and visually appealing interface.",
+            link: "https://nitish9570.github.io/Instagram-Clone/"
+        },
         // Add more projects as needed
     ];
 
